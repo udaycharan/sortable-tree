@@ -1,0 +1,12 @@
+export const FETCH_USER_REQUEST = "FETCH_USER_REQUEST";
+export const FETCH_SUCCESS = " FETCH_SUCCESS";
+export const FETCH_FAILURE = " FETCH_FAILURE";
+export const ADD_NODE = "ADD_NODE";
+export const DEL_NODE = "DEL_NODE";
+export const EDIT_NODE = "EDIT_NODE";
+export const DOWNLOAD_FILE = "DOWNLOAD_FILE";
+export const ON_CHANGE_INPUT = "ON_CHANGE_INPUT";
+export const SELECT_INPUT_TYPE = "SELECT_INPUT_TYPE";
+export const ON_CLICK_SHOW_MODAL = " ON_CLICK_SHOW";
+export const ON_CLICK_CLOSE_MODAL = "ON_CLICK_SHOW";
+
